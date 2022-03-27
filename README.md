@@ -8,3 +8,5 @@ Maintenance log
 | 05/31/2021 | 196060  | Changed fuel pump, fuel pump relay |
 | 06/12/2021 | 196072  | Pass side exhaust header flange, heater tee and 4 way valve |
 | 03/19/2022 | 196423  | Coolant temperature sensor |
+| 03/23/2022 | 196423  | Crank Sensor |
+| 03/26/2022 | 196423  | Ignition Control Module |
