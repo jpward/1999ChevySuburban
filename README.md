@@ -10,3 +10,5 @@ Maintenance log
 | 03/19/2022 | 196423  | Coolant temperature sensor |
 | 03/23/2022 | 196423  | Crank Sensor |
 | 03/26/2022 | 196423  | Ignition Control Module |
+| 04/08/2022 | 196423  | Timing chain/cover, water pump |
+| 04/14/2022 | 196423  | Put old distributor cap back on WTF!!! |
